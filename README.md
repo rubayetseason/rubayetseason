@@ -1,5 +1,5 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Rubayet Islam Season</h1>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Rubayet Islam Season</h1>
 <h3 align="center">A full-stack developer who loves turning complex ideas into clean, scalable apps. I build fast, modern web experiences powered by TypeScript, Next.js, and good old curiosity.</h3>
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rubayetseason&label=Profile%20views&color=0e75b6&style=flat" alt="rubayetseason" /> </p>
@@ -55,4 +55,4 @@
 
 <br/>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubayetseason&" alt="rubayetseason" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubayetseason&show_icons=true&theme=tokyonight" alt="rubayetseason" /></p>
