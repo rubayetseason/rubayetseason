@@ -1,3 +1,4 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Rubayet Islam Season</h1>
 <h3 align="center">A full-stack developer from Bangladesh who loves turning complex ideas into clean, scalable apps. I build fast, modern web experiences powered by TypeScript, Next.js, and good old curiosity.</h3>
 
