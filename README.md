@@ -4,7 +4,8 @@
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rubayetseason&label=Profile%20views&color=0e75b6&style=flat" alt="rubayetseason" /> </p>
 <br/>
-- 🔭 I’m currently working on **Full-stack web applications with Next.js, TypeScript, Prisma & AWS.**
+
+- 🔭 I’m currently working on **Full-stacl web applications with Next.js, TypeScript, Nest.Js, Prisma & AWS.**
 
 - 🌱 I’m currently learning **Go (Golang), Nest (NestJS) — exploring high-performance backend development.**
 
