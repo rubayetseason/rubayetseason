@@ -6,7 +6,7 @@
 <br/>
 - 🔭 I’m currently working on **Full-stack web applications with Next.js, TypeScript, Prisma & AWS.**
 
-- 🌱 I’m currently learning **Go (Golang) — exploring high-performance backend development.**
+- 🌱 I’m currently learning **Go (Golang), Nest (NestJS) — exploring high-performance backend development.**
 
 - 👯 I’m looking to collaborate on **AI-powered projects, especially those involving LangChain, LLM integrations, and intelligent automation.**
 
@@ -51,6 +51,10 @@
 
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/GoLang.svg" alt="go" width="40" height="40"/>
+  </a>
+
+  <a href="https://nestjs.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NestJS-Dark.svg" alt="nodejs" width="40" height="40"/>
   </a>
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
